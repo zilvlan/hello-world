@@ -1,0 +1,11 @@
+ClASS_PATH
+.;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar
+
+FLEX_HOME
+C:\Program Files (x86)\Adobe\Adobe Flash Builder 4\sdks\4.0.0
+
+JAVA_HOME
+C:\Program Files (x86)\Java\jdk1.7.0_03
+
+Path
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%FLEX_HOME%\bin;
