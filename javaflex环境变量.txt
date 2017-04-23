@@ -9,3 +9,6 @@ C:\Program Files (x86)\Java\jdk1.7.0_03
 
 Path
 %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%FLEX_HOME%\bin;
+
+
+tst
